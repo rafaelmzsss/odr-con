@@ -115,3 +115,5 @@ O projeto utilizará um fluxo de versionamento baseado em branches, com o objeti
 5. Após a validação, integrar a `develop` à `main`.
 
 Esse fluxo garante que novas funcionalidades e correções sejam testadas antes de chegarem à versão estável do projeto.
+
+> Instruções de execução e deploy do back end: veja [Backend/README.md](Backend/README.md).
